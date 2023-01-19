@@ -1,5 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayarhanafy&label=Profile%20views&color=0e75b6&style=flat" alt="mayarhanafy" /> </p>
 <h3 >👋 Hi I'm Mayar Hanafy, a computer engineering fresh graduate</h3>
 <h3 >A passionate AI and machine learning engineer</h3>
 - 📫 How to reach me **https://www.linkedin.com/in/mayar-hanafy/**
