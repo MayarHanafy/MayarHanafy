@@ -1,7 +1,8 @@
 
 <h3>👋 Hi I'm Mayar Hanafy, a computer engineering fresh graduate</h3>
-<h4>  A passionate AI and machine learning engineer</h4>
-<h4> 📫 How to reach me **https://www.linkedin.com/in/mayar-hanafy/** </h4>
+<h4>I am a computer engineering fresh graduate</h4>
+<h4>A passionate AI and machine learning engineer</h4>
+<h4>📫 How to reach me **https://www.linkedin.com/in/mayar-hanafy/** </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
