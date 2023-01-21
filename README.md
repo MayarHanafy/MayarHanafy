@@ -1,6 +1,7 @@
 
 <h3>👋 Hi I'm Mayar Hanafy, I am a computer engineering fresh graduate</h3>
-<h4>A passionate AI and machine learning engineer</h4>
+<h4>👀 A passionate AI and Machine Learning Engineer</h4>
+<h4>💞️ I’m looking to collaborate on different AI projects</h4>
 <h4>📫 How to reach me **https://www.linkedin.com/in/mayar-hanafy/** </h4>
 
 <h3 align="left">Connect with me:</h3>
